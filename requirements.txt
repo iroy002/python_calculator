@@ -1,0 +1,13 @@
+# requirements.txt for Python calculator project
+
+# If you plan to use any of these libraries, include them; otherwise, they can be left out
+# (For now, these are suggested dependencies for typical project requirements)
+
+# For handling environment variables (optional)
+python-dotenv==1.0.0
+
+# For testing (if using pytest for example)
+pytest==7.2.1
+
+# For linting (optional)
+flake8==6.1.0
